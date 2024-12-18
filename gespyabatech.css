@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.colorcards{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+
+}
+
+.pink{
+    height: 400px;
+    width: 350px;
+    background-color: #f21d87;
+    padding: 10px;
+    margin: 20px;
+    align-items: center;
+    
+}
+
+.aqua{
+    height: 400px;
+    width: 350px;
+    background-color: #7ddbe4;
+    padding: 10px;
+    align-items: center;
+    margin-right: 20px;
+}
+
+.orange{
+    height: 398px;
+    width: 350px;
+    background-color: #fcb900;
+    padding: 10px;
+    margin-right: 20px;
+}
+
+.yellow{
+    height: 398px;
+    width: 350px;
+    background-color: rgb(254, 248, 76);
+    padding: 10px;
+    margin-right: 20px;
+    
+}
+
+h2{
+    text-align: center;
+}
